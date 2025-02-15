@@ -1,6 +1,6 @@
 DATA = {"ABACUS" : "Invented by a Chinese around 4000 years ago",
                 "NAPIER'S BONES" : "A manually operated calculating device invented by John Napier",
-                "PASCALINE" : "It is the first mechanical and automatic calculator invented by Blaise Pascal betweebb1642 and 1644",
+                "PASCALINE" : "It is the first mechanical and automatic calculator invented by Blaise Pascal between 1642 and 1644",
                 "LEIBNIZ WHEEL" : "Also known as Stepped Reckoner. A digital mechanical calculator invented by Gottfried Wilhelm Leibniz on 1673 by improving Pascal's invention", 
                 "ANALYTICAL ENGINE" : "A mechanical computer that used punch cards as input was invented by Charles Babbage on 1830",
                 "TABULATING MACHINE" : "A mechanical tabulator that was based on punch cards. It was capable of tabulating statistics and record or sort data. It is invented by Herman Hollerith on 1890",
